@@ -29,6 +29,7 @@ Test Accuracy: 36.26%
 The model performs above the random baseline (20%) but is limited by dataset size and quality.
 
 Next Steps
+Improve Data Quality.
 Use Pytorch's inbuilt encoder.
 Compare scratch vs inbuilt performance
 Add deployment via FastAPI
